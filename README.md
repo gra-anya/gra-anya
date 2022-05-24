@@ -10,6 +10,9 @@
  - [Работа с JSON  и часовыми поясами](https://github.com/gra-anya/Flights)
 
 
+Связаться со мной можной по почте: gra-anya@mail.ru
+или Telegram [gra_anya](https://t.me/Gra_anya)
+
 <!--
 **gra-anya/gra-anya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
