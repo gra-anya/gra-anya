@@ -1,4 +1,14 @@
-### Hi there 👋
+### Привет
+### Я Евграфова Анна, разработчик на Java
+
+Вот что я умею:
+ - [Дипломная работа. Поисковая система](https://github.com/gra-anya/pcs-jd-diplom)
+ - [Реализация фильтрации перелетов](https://github.com/gra-anya/GridnineSystems)
+ - [Заметки на Spring Boot](https://github.com/gra-anya/notes)
+ - [Курсовая работа. Конвертер в текстовую графику](https://github.com/gra-anya/TextGraphicsConverter)
+ - [Работа с файлами JSON, XML, CSV]( https://github.com/gra-anya/CSV-JSON)
+ - [Работа с JSON  и часовыми поясами](https://github.com/gra-anya/Flights)
+
 
 <!--
 **gra-anya/gra-anya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
