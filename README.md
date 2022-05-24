@@ -10,6 +10,11 @@
  - [Работа с JSON  и часовыми поясами](https://github.com/gra-anya/Flights)
 
 
+Мои сертификаты:
+ - [Java-разработчик](https://github.com/gra-anya/gra-anya/blob/main/certificate%20Java.pdf)
+ - [Введение в SQL и работу с базой данных](https://github.com/gra-anya/gra-anya/blob/main/certificate%20SQL.pdf)
+
+
 Связаться со мной можной по почте: gra-anya@mail.ru
 или Telegram [gra_anya](https://t.me/Gra_anya)
 
